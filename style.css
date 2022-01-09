@@ -1,0 +1,36 @@
+.container {
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.html {
+  color: antiquewhite;
+  font-family: "Quicksand", sans-serif;
+  background-color: #222222;
+}
+
+.cassidy {
+  display: flex;
+  justify-content: center;
+}
+
+.tambah-data {
+  display: block;
+}
+
+input,
+select {
+  display: block;
+
+  width: 300px;
+}
+
+.btn {
+  margin-top: 20px;
+  width: 300px;
+}
+
+.da-quain {
+  display: flex;
+  justify-content: center;
+}
